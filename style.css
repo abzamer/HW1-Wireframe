@@ -52,15 +52,11 @@ aside {
     margin-top: 20px;
     float: right;
     width: 455px;
+    height: 266px;
 }
 
 footer {
     clear: both;
     padding: 20px;
-}
-
-.col-container {
-    display: table;
-    width: 100%;
 }
 
