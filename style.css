@@ -51,7 +51,7 @@ nav {
 aside {
     margin-top: 20px;
     float: right;
-    width: 47%;
+    width: 455px;
 }
 
 footer {
@@ -59,11 +59,8 @@ footer {
     padding: 20px;
 }
 
-.container {
-    overflow: hidden;
+.col-container {
+    display: table;
+    width: 100%;
 }
 
-.sidebar {
-    padding-bottom: auto; 
-    margin-bottom: auto;
-}
